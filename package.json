@@ -1,5 +1,5 @@
 {
-  "name": "graph init --from-example substreams-powered-subgraph",
+  "name": "substreams-powered-subgraph",
   "version": "0.1.0",
   "private": true,
   "scripts": {
